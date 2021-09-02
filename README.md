@@ -25,6 +25,8 @@ Fullstack Developer from Indonesia
 [<img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/rasyid_rafi/)
 [<img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/rasyid_rafi)
 [<img alt="soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />](https://soundcloud.com/rasyid_rafi)
+[<img alt="wattpad" src="https://img.shields.io/static/v1?style=for-the-badge&message=Wattpad&color=FF500A&logo=Wattpad&logoColor=FFFFFF&label=" />](https://www.wattpad.com/user/rasyid_rafi)
+[<img alt="imgur" src="https://img.shields.io/static/v1?style=for-the-badge&message=Imgur&color=1BB76E&logo=Imgur&logoColor=FFFFFF&label=" />](https://imgur.com/user/rasyidrafi/posts)
 
 ## Basic Knowledge
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -54,6 +56,7 @@ Fullstack Developer from Indonesia
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 
 ### Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=rasyidrafi&show_icons=true&theme=radical&hide_border=true)
