@@ -56,6 +56,6 @@ Fullstack Developer from Indonesia
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=rasyidrafi)
+![stats](https://github-readme-stats.vercel.app/api?username=rasyidrafi&show_icons=true&theme=radical&hide_border=true)
 <br>
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=rasyidrafi)
+![streak](https://github-readme-streak-stats.herokuapp.com?user=rasyidrafi&theme=radical&hide_border=true)
