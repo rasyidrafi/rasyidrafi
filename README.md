@@ -59,6 +59,8 @@ Fullstack Developer from Indonesia
 ![photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 
 ### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=rasyidrafi&show_icons=true&theme=radical&hide_border=true)
+<div class="stats">
+<img src="https://github-readme-stats.vercel.app/api?username=rasyidrafi&show_icons=true&theme=radical&hide_border=true" />
 <br>
-![stats](https://github-readme-streak-stats.herokuapp.com?user=rasyidrafi&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rasyidrafi&theme=radical&hide_border=true" />
+</div>
