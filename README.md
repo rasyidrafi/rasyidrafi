@@ -1,6 +1,6 @@
 # Muhammad Rasyid Rafi'i 👋
 Fullstack Developer from Indonesia
-- 🔭 Working on whatsapp panel multi device with Nodejs
+- 🔭 Working on Whatsapp Panel multi device with Nodejs
 - 🚀 Working on R45 personal project
 - 🌱 Expert at Node  
 ## Available On
@@ -61,4 +61,4 @@ Fullstack Developer from Indonesia
 ### Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=rasyidrafi&show_icons=true&theme=radical&hide_border=true)
 <br>
-![streak](https://github-readme-streak-stats.herokuapp.com?user=rasyidrafi&theme=radical&hide_border=true)
+![stats](https://github-readme-streak-stats.herokuapp.com?user=rasyidrafi&theme=radical&hide_border=true)
