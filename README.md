@@ -3,6 +3,13 @@ Fullstack Developer from Indonesia
 - 🔭 Working on Whatsapp Panel multi device with Nodejs
 - 🚀 Working on R45 personal project
 - 🌱 Expert at Node  
+
+Nama saya Muhammad Rasyid Rafi'i, anak pertama dari 4 bersaudara, Saya tinggal bersama orang tua di Malang, Jawa Timur, Indonesia.  
+Saya bersekolah di SMK Negeri 2 Singosari dengan program keahlian Rekayasa Perangkat Lunak.  
+Saya sangat tertarik dengan komputer dan pemrograman, Tidak ada kata mahir dalam dunia pemrograman, karena akan selalu ada hal baru yang perlu dipelajari, saya akan terus belajar untuk meningkatkan kemampuan dan kualitas diri.
+
+> _Jawaban tidak selalu tersedia di Stackoverflow_
+
 ## Available On
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rasyidrafi/)
 [<img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@rasyid_rafi)
