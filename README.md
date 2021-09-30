@@ -4,9 +4,10 @@ Fullstack Developer from Indonesia
 - 🚀 Working on R45 personal project
 - 🌱 Expert at Node  
 
-Nama saya Muhammad Rasyid Rafi'i, anak pertama dari 4 bersaudara, Saya tinggal bersama orang tua di Malang, Jawa Timur, Indonesia.  
-Saya bersekolah di SMK Negeri 2 Singosari dengan program keahlian Rekayasa Perangkat Lunak.  
-Saya sangat tertarik dengan komputer dan pemrograman, Tidak ada kata mahir dalam dunia pemrograman, karena akan selalu ada hal baru yang perlu dipelajari, saya akan terus belajar untuk meningkatkan kemampuan dan kualitas diri.
+Nama saya Muhammad Rasyid Rafi'i, anak pertama dari 4 bersaudara,  
+Saya tinggal bersama orang tua di Malang, Jawa Timur, Indonesia.  
+
+Lebih lengkap tentang saya di [Website](https://rasyidrafi.glitch.me)
 
 > _"Jawaban tidak selalu tersedia di Stackoverflow"_
 
