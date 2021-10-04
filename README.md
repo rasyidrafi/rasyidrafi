@@ -1,7 +1,7 @@
 # Muhammad Rasyid Rafi'i 👋
 Fullstack Developer from Indonesia
-- 🔭 Working on Whatsapp Panel multi device with Nodejs
-- 🚀 Working on R45 personal project
+- 🔭 Working on Freelance
+- 🚀 Working on Portfolio Site
 - 🌱 Expert at Node  
 
 Nama saya Muhammad Rasyid Rafi'i, anak pertama dari 4 bersaudara,  
