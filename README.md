@@ -1,6 +1,6 @@
 # Muhammad Rasyid Rafi'i 👋
 Fullstack Developer from Indonesia
-- 🔭 Working on Angular 9
+- 🔭 Working on React JS
 - 🌱 Expert at Node  
 
 Nama saya Muhammad Rasyid Rafi'i, anak pertama dari 4 bersaudara,  
