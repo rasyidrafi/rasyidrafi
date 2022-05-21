@@ -6,7 +6,7 @@ Fullstack Developer from Indonesia
 Nama saya Muhammad Rasyid Rafi'i, anak pertama dari 4 bersaudara,  
 Saya tinggal bersama orang tua di Malang, Jawa Timur, Indonesia.  
 
-Lebih lengkap tentang saya di [Website](https://rasyidrafi.glitch.me)
+Lebih lengkap tentang saya di [Website](https://rasyidrafi.my.id)
 
 > _"Jawaban tidak selalu tersedia di Stackoverflow"_
 
