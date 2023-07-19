@@ -8,7 +8,7 @@
 Software Engineer
 - 🔭 Working on React JS 
 
-Find me here ✨ _[my page](https://rasyidrafi.dev.skom.id)_ ✨
+Find me here ✨ _[my page](https://rasyidrafi.skom.id)_ ✨
 
 ## Connect
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rasyidrafi/)
